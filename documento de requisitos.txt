@@ -30,7 +30,10 @@ cu003: cargar materias
 ________________________________________
 
 
+conclusiones:
 
+este sistema sirve para gestionar los servicios de control escolar
+____________________________________________________________________
 
 
 
