@@ -13,6 +13,22 @@ _
 
 requisitos no funcionales:
 
+RF001: El sistema debe ser usable
+
+RF002: El sistema debe ser rapido
+
+RF003: El sistema debe ser seguro
+__________________________________________
+lista de casos de uso:
+
+cu001: registrar alumnos
+
+cu002: imprimir kardex
+
+cu003: cargar materias
+
+________________________________________
+
 
 
 
