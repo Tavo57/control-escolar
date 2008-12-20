@@ -9,3 +9,19 @@ RF002: El sistema debe imprimir reporte de califcaciones
 
 RF003: El sistema debe permitir la carga de materias
 ___________________________________________________________
+_
+
+requisitos no funcionales:
+
+
+
+
+
+
+
+
+
+
+
+Bien firme en la corporacion Tachi v2.0
+________________________________________
