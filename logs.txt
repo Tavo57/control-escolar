@@ -1,0 +1,29 @@
+commit 13ef50be7b47948cae4511c4d70240bf6a225a5a
+Author: Tavo <g_5.7@hotmail.com>
+Date:   Fri Dec 19 21:20:52 2008 -0700
+
+    conclusiones
+
+commit d665d2f58cbe36eff7c3b1853c2de153eec949bd
+Author: Tavo <g_5.7@hotmail.com>
+Date:   Fri Dec 19 21:19:33 2008 -0700
+
+    Lista de casos de uso
+
+commit 50213c319b73c60a7ae09b36996e0ba4bdb5c2c8
+Author: Tavo <g_5.7@hotmail.com>
+Date:   Fri Dec 19 21:13:39 2008 -0700
+
+    Requisitos no funcionales
+
+commit d201d9ad8675e72856194afc35740e4c39e9725b
+Author: Tavo <g_5.7@hotmail.com>
+Date:   Fri Dec 19 21:06:44 2008 -0700
+
+    requisitos funcionales
+
+commit b8f60362ea22fb546478882f6d0ebf6ba2aab0a4
+Author: Tavo <g_5.7@hotmail.com>
+Date:   Fri Dec 19 21:02:20 2008 -0700
+
+    documento de requisitos
